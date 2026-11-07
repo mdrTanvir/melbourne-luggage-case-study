@@ -1,0 +1,5 @@
+terminal,automated_scanners_2019,mean_time_2018_source_units,mean_time_2019_source_units,mean_daily_bags_2018,mean_daily_bags_2019,time_change_pct,time_source,volume_source
+T1,false,4.769,4.952,4529.882,4699.263,3.8373,Figure 1 printed page 5,Figure 2 printed page 6
+T2,true,4.274,3.809,14734.899,13112.847,-10.8797,Figure 1 printed page 5,Figure 2 printed page 6
+T3,true,7.604,6.670,4758.167,5307.622,-12.2830,Figure 1 printed page 5,Figure 2 printed page 6
+T4,false,7.170,7.137,3669.496,2798.962,-0.4603,Figure 1 printed page 5,Figure 2 printed page 6
